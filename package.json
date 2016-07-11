@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/4front/express-request-proxy"
+    "url": "https://github.com/samhunta/express-request-proxy"
   },
   "keywords": [
-    "4front",
+    "samhunta",
     "express",
     "middleware",
     "request",
@@ -24,9 +24,9 @@
   "author": "David Von Lehman (https://github.com/dvonlehman)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/4front/express-request-proxy/issues"
+    "url": "https://github.com/samhunta/express-request-proxy/issues"
   },
-  "homepage": "https://github.com/4front/express-request-proxy",
+  "homepage": "https://github.com/samhunta/express-request-proxy",
   "dependencies": {
     "async": "^1.4.0",
     "body-parser": "^1.12.0",
